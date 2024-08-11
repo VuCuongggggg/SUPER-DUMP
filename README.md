@@ -2,7 +2,7 @@ This is my first project, if there are any errors please contact via facebook ht
 
 ###### **HOW TO USE**
 
-<img src="https://imgur.com/a/hi-mex9sXR"?
+<img src="https://imgur.com/a/hi-mex9sXR">
 
 termux-setup-storage
 
