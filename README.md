@@ -2,8 +2,6 @@ This is my first project, if there are any errors please contact via facebook ht
 
 ###### **HOW TO USE**
 
-<img src="https://imgur.com/WindQBP">
-
 termux-setup-storage
 
 pkg update
